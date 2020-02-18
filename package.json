@@ -1,0 +1,19 @@
+{
+  "name": "@feizheng/boilerplate-thor-cli",
+  "version": "1.0.0",
+  "description": "boilerplate-thor-cli-description",
+  "homepage": "https://github.com/afeiship/boilerplate-thor-cli",
+  "author": {
+    "name": "afeiship",
+    "email": "1290657123@qq.com"
+  },
+  "scripts": {
+    "thor:install": "thor install src/index.rb",
+    "thor:installed": "thor installed",
+    "thor:uninstall": "thor uninstall @feizheng/boilerplate-thor-cli"
+  },
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  }
+}
