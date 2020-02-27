@@ -10,7 +10,7 @@
   "scripts": {
     "thor:install": "thor install src/index.rb",
     "thor:list": "thor installed",
-    "thor:update": "thor update",
+    "thor:update": "thor update @feizheng/boilerplate-thor-cli",
     "thor:uninstall": "thor uninstall @feizheng/boilerplate-thor-cli"
   },
   "license": "MIT",
