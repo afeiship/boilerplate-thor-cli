@@ -17,9 +17,9 @@
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
-  "boilerplate": "@feizheng/boilerplate-thor-cli",
+  "boilerplate": "boilerplate-thor-cli",
   "repository": {
     "type": "git",
-    "url": "https://github.com/afeiship/@feizheng/boilerplate-thor-cli"
+    "url": "https://github.com/afeiship/boilerplate-thor-cli.git"
   }
 }
