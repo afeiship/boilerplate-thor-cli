@@ -2,7 +2,7 @@
   "name": "@feizheng/boilerplate-thor-cli",
   "version": "1.0.0",
   "description": "boilerplate-thor-cli-description",
-  "homepage": "https://github.com/afeiship/boilerplate-thor-cli",
+  "homepage": "https://js.work",
   "author": {
     "name": "afeiship",
     "email": "1290657123@qq.com"
@@ -16,5 +16,10 @@
   "license": "MIT",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
+  },
+  "boilerplate": "@feizheng/boilerplate-thor-cli",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/afeiship/@feizheng/boilerplate-thor-cli"
   }
 }
